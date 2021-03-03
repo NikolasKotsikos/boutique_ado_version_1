@@ -27,7 +27,7 @@ SECRET_KEY = 'h4#&w)lj0ptg@igo_s1vt=wbn-56_oqvqm44mj)+#ki3u+gou='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nk-boutique-ado.herokuapp.com1', 'localhost']
+ALLOWED_HOSTS = ['nk-boutique-ado.herokuapp.com', 'localhost']
 
 
 # Application definition
