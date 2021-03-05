@@ -293,7 +293,6 @@ input[name='q']::placeholder {
 
     .display-4.logo-font.text-black {
         font-size: 2rem;
-
     }
 
     .nav-link {
@@ -301,7 +300,7 @@ input[name='q']::placeholder {
     }
 
     .nav-link i.fa-lg {
-        font-size: 1rem;        
+        font-size: 1rem;
     }
 
     .navbar-toggler {
@@ -315,7 +314,7 @@ input[name='q']::placeholder {
 
     .btn.btn-outline-black.rounded-0,
     .btn.btn-black.rounded-0 {
-        padding: 375rem .375rem;
+        padding: .375rem .375rem;
     }
 
     .btn.btn-outline-black.rounded-0.btn-lg,
